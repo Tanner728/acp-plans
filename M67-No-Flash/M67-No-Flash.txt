@@ -1,0 +1,13 @@
+#waituntil 1, 02:22
+#domeopen
+#autofocus
+
+#REPEAT 999
+#FILTER rp
+#BINNING 1
+#INTERVAL 90
+#COUNT 20
+M67	08:51:19.23	+11:47:54.1
+
+#quitat 11:09
+#chain calibration.txt

@@ -1,0 +1,5 @@
+#waituntil 1, 00:30
+#chill -5
+#chill -20
+#chill -30
+#chain M67-No-Flash.txt
